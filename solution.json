@@ -1,0 +1,52 @@
+{
+    "user": {
+        "Name": "John",
+        "Age": 30,
+        "Country": "USA"
+    },
+    "wishlist": [
+        {
+            "Name": "Macbook Pro",
+            "Price": 2000,
+            "Description": "Powerful laptop for professional use"
+        },
+        {
+            "Name": "iPhone 12",
+            "Price": 1000,
+            "Description": "High-end smartphone with advanced features"
+        }
+    ],
+    "cart": {
+        "items": [
+            {
+                "Name": "Macbook Pro",
+                "Price": 2000,
+                "Description": "Powerful laptop for professional use",
+                "Quantity": 1
+            }
+        ],
+        "cupon_code": "",
+        "subtotal": 2000,
+        "tax": 100,
+        "shipping": 50,
+        "total": 2150
+    },
+    "history": [
+        {
+            "items": [
+                {
+                    "Name": "Macbook Pro",
+                    "Price": 2000,
+                    "Description": "Powerful laptop for professional use",
+                    "Quantity": 1
+                }
+            ],
+            "cupon_code": "",
+            "subtotal": 2000,
+            "tax": 100,
+            "shipping": 50,
+            "total": 2150,
+            "date": "2021-01-01"
+        }
+    ]
+}
