@@ -14,7 +14,7 @@ A wish list where the users can add products that they’re “keeping an eye on
 
 Contains the items the user intends to purchase, with a running total price.
 
-<img src="wireframe-wish-list.png" width="600" />
+<img src="wireframe-cart.png" width="600" />
 
 ### Orders History
 
